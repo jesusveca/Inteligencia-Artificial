@@ -1,5 +1,3 @@
-# Swarming
-# Andrew Davison 2013
 import pygame, os, math, time, random
 from pygame.locals import *
 pygame.init()
